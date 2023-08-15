@@ -1,0 +1,8 @@
+input x
+2 2
+1 2 3 4
+add x x
+add x x y
+mmul x y
+
+list
